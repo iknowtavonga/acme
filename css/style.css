@@ -23,6 +23,13 @@ body{
   color: white;
 }
 
+.dark{
+  padding: 15px;
+  background: #35424a;
+  color: #ffffff;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
 ul{
   margin: 0;
   padding: 0;
@@ -92,6 +99,8 @@ header a:hover{
   font-size: 20px
 }
 
+/*newsletter*/
+
 #newsletter{
   padding: 15px;
   color: #ffffff;
@@ -111,4 +120,43 @@ header a:hover{
   padding: 4px;
   height: 25px;
   width: 250px;
+}
+
+/*Boxes*/
+
+#boxes{
+  margin-top: 20px;
+}
+
+#boxes .box{
+  float: left;
+  text-align: center;
+  width: 30%;
+  padding: 10px;
+}
+
+#boxes .box img{
+  width: 90px;
+}
+
+/* Sidebar*/
+
+aside#sidebar{
+  float:right;
+  width: 30%;
+  margin-top: 10px;
+}
+
+/*Main Column*/
+
+article#main-col{
+  float:left;
+  width:65%;
+}
+footer{
+  padding: 20px;
+  margin-top: 20px;
+  color: #ffffff;
+  background-color: #e8491d;
+  text-align: center;
 }
