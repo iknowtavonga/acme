@@ -7,7 +7,7 @@ This project is a tutorial from the Traversy Media Youtube page. The reason i ch
 ---
 ### Tutorial Link
 
-[Traversy Media Acme Website](https://www.youtube.com/watch?v=Wm6CUkswsNw&t=26s)
+[Traversy Media Acme Video](https://www.youtube.com/watch?v=Wm6CUkswsNw&t=26s)
 
 ---
 
