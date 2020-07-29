@@ -27,7 +27,8 @@ This project is a tutorial from the Traversy Media Youtube page. The reason i ch
 ---
 
 ### Key Code Learnt
-```html    <header>
+```html    
+    <header>
       <div class="container">
         <div id="branding">
           <h1><span class="highlight">Acme</span> Web Design</h1>
