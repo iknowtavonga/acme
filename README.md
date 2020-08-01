@@ -20,12 +20,13 @@ This project is a tutorial from the Traversy Media Youtube page. The reason i ch
 * Navbar
 * The importance of divs and how they make classes simple
 
-
 ---
+
 ### Elements To Expand Knowledge
 * Media Queries
 * Forms
 * ids
+
 ---
 
 ### Key Code Learnt
