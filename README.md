@@ -45,4 +45,4 @@ This project is a tutorial from the Traversy Media Youtube page. The reason i ch
       </div>
     </header>
 ```
->"You are only a failure when you give up"
+>"You are only a failure when you give up" - *Anon*
